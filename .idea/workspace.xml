@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b93bd877-6974-485a-bb17-0dda1c3e9e2e" name="Changes" comment="prime number update">
-      <change afterPath="$PROJECT_DIR$/src/main/java/VeryBasicPrograms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b93bd877-6974-485a-bb17-0dda1c3e9e2e" name="Changes" comment="very basic programs update">
+      <change afterPath="$PROJECT_DIR$/src/main/java/BasicPrograms/FactorialProgram.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +45,20 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.VeryBasicPrograms">
+  <component name="RunManager" selected="Application.FactorialProgram">
+    <configuration name="FactorialProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BasicPrograms.FactorialProgram" />
+      <module name="JavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BasicPrograms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BasicPrograms.Fibonacci" />
       <module name="JavaPrograms" />
@@ -82,6 +94,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FactorialProgram" />
         <item itemvalue="Application.VeryBasicPrograms" />
         <item itemvalue="Application.PrimeNumber" />
         <item itemvalue="Application.Fibonacci" />
@@ -111,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1711464269106</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="very basic programs update">
+      <created>1711525322877</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1711525322877</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -128,6 +148,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fibonacci update" />
     <MESSAGE value="prime number update" />
-    <option name="LAST_COMMIT_MESSAGE" value="prime number update" />
+    <MESSAGE value="very basic programs update" />
+    <option name="LAST_COMMIT_MESSAGE" value="very basic programs update" />
   </component>
 </project>
