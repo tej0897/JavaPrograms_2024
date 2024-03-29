@@ -1,0 +1,43 @@
+Why Java?
+    1. Huge Community
+    2. Can do multiple things. (Business, web apps, android apps, games etc..)
+    3. Pays well.
+
+            *********
+
+Platform Independent:
+
+    * We cannot understand machine language and machine cannot understand ours. So, to communicate with machines, we do the following:
+
+    1. Write source code and send it to compiler.
+    2. Compiler will convert source code to object code.
+    3. Computer understands this and does our thing.
+
+    But the problem here with compiler is, it is platform specific. If we code in windows, we can use that compiled code only in windows machines. It will not work in macOS.
+
+    Java introduced Bytecode to handle this problem.
+
+    1. Write source code and send it to ByteCode.
+    2. Bytecode with take .java file and converts it to .class file
+    3. Any machine with JVM will be able to run this .class file. This makes this platform independent.
+
+            *********
+
+JVM (Java Virtual Machine)
+    Translates Bytecode to Machine language.
+
+Where to get this JVM?
+    Well, it comes with JDK. (What is JDK then?)
+
+What is JDK?
+    JDK(Java Development Kit) is made up to 3 things.
+
+    1. JDK: Developer tools.
+    2. JRE: libraries and toolkit
+    3. JVM: runs java programs
+
+Downloading JDK is enough, as it comprises of all these 3 things.
+
+What is IDE?
+    IDE is Integrated Development Environment. It is a software that helps us write software.
+

@@ -1,0 +1,29 @@
+For Fractions, use float or double
+
+For whole numbers, use int, long, short 
+
+For true or false, use boolean
+
+
+            *********
+
+String:
+
+All other datatypes are primitive, where as String datatype is "Reference" type.
+
+Hence, there is no fixed size for String.
+
+
+Primitive Vs Reference datatypes:
+    
+    1. There are 8 primitive datatypes where as there are unlimited Reference types. (they are user defined)
+
+    2. Primitive stores data where as Reference stores an address.
+
+    3. Primitive can hold only one value where as Reference can hold more than one value.
+
+    4. Primitive takes less memory and are faster where as Reference takes more memory and is slower.
+
+
+            *********
+
