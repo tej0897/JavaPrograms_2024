@@ -1,4 +1,6 @@
-public class VeryBasicPrograms {
+package VeryBasicPrograms;
+
+public class TwoSwapVariables {
 
     // Swap two variables
 
