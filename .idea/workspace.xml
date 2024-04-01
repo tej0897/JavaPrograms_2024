@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b93bd877-6974-485a-bb17-0dda1c3e9e2e" name="Changes" comment="Factorial program update" />
+    <list default="true" id="b93bd877-6974-485a-bb17-0dda1c3e9e2e" name="Changes" comment="Armstrong program update-1">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BasicPrograms/ArmstrongNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BasicPrograms/ArmstrongNumber.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +48,20 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/user/OneDrive/Desktop/Chad Darby - Spring Boot/projects/myApplication&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FactorialProgram">
+  <component name="RunManager" selected="Application.ArmstrongNumber">
+    <configuration name="ArmstrongNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BasicPrograms.ArmstrongNumber" />
+      <module name="JavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BasicPrograms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FactorialProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BasicPrograms.FactorialProgram" />
       <module name="JavaPrograms" />
@@ -84,8 +101,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VeryBasicPrograms" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VeryBasicPrograms" />
+    <configuration name="TwoSwapVariables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BasicPrograms.VeryBasicPrograms.TwoSwapVariables" />
       <module name="JavaPrograms" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -93,8 +110,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArmstrongNumber" />
         <item itemvalue="Application.FactorialProgram" />
-        <item itemvalue="Application.VeryBasicPrograms" />
+        <item itemvalue="Application.TwoSwapVariables" />
         <item itemvalue="Application.PrimeNumber" />
         <item itemvalue="Application.Fibonacci" />
       </list>
@@ -165,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1711891675334</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Armstrong program update-1">
+      <created>1711986820889</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1711986820889</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -184,6 +209,7 @@
     <MESSAGE value="prime number update" />
     <MESSAGE value="very basic programs update" />
     <MESSAGE value="Factorial program update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Factorial program update" />
+    <MESSAGE value="Armstrong program update-1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Armstrong program update-1" />
   </component>
 </project>
