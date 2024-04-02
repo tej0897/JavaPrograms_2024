@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b93bd877-6974-485a-bb17-0dda1c3e9e2e" name="Changes" comment="Hypotenuse Triangle commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/VeryBasicPrograms/RandomNumberGenerator.java" afterDir="false" />
+    <list default="true" id="b93bd877-6974-485a-bb17-0dda1c3e9e2e" name="Changes" comment="Random Number commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/VeryBasicPrograms/SillyGame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,22 +47,9 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/user/OneDrive/Desktop/Chad Darby - Spring Boot/projects/myApplication&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.RandomNumberGenerator">
+  <component name="RunManager" selected="Application.SillyGame">
     <configuration name="ArmstrongNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BasicPrograms.ArmstrongNumber" />
-      <module name="JavaPrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BasicPrograms.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FactorialProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicPrograms.FactorialProgram" />
       <module name="JavaPrograms" />
       <extension name="coverage">
         <pattern>
@@ -100,6 +87,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SillyGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VeryBasicPrograms.SillyGame" />
+      <module name="JavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="VeryBasicPrograms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="exampleProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BasicPrograms.GUI_Porgrams.exampleProgram" />
       <module name="JavaPrograms" />
@@ -115,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SillyGame" />
         <item itemvalue="Application.RandomNumberGenerator" />
         <item itemvalue="Application.HypotenuseTriangle" />
         <item itemvalue="Application.exampleProgram" />
         <item itemvalue="Application.ArmstrongNumber" />
-        <item itemvalue="Application.FactorialProgram" />
       </list>
     </recent_temporary>
   </component>
@@ -216,7 +216,14 @@
       <option name="project" value="LOCAL" />
       <updated>1712025462549</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Random Number commit">
+      <created>1712026150233</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1712026150233</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -239,6 +246,7 @@
     <MESSAGE value="Armstrong program update-2" />
     <MESSAGE value="JOptionPane commit (GUI program-1)" />
     <MESSAGE value="Hypotenuse Triangle commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hypotenuse Triangle commit" />
+    <MESSAGE value="Random Number commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Random Number commit" />
   </component>
 </project>
