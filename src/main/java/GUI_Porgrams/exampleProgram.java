@@ -1,4 +1,4 @@
-package BasicPrograms.GUI_Porgrams;
+package GUI_Porgrams;
 
 import javax.swing.*;
 
