@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b93bd877-6974-485a-bb17-0dda1c3e9e2e" name="Changes" comment="JOptionPane commit (GUI program-1)">
-      <change beforePath="$PROJECT_DIR$/src/main/java/BasicPrograms/GUI_Porgrams/exampleProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GUI_Porgrams/exampleProgram.java" afterDir="false" />
+    <list default="true" id="b93bd877-6974-485a-bb17-0dda1c3e9e2e" name="Changes" comment="Hypotenuse Triangle commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/VeryBasicPrograms/RandomNumberGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +47,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/user/OneDrive/Desktop/Chad Darby - Spring Boot/projects/myApplication&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.HypotenuseTriangle">
+  <component name="RunManager" selected="Application.RandomNumberGenerator">
     <configuration name="ArmstrongNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BasicPrograms.ArmstrongNumber" />
       <module name="JavaPrograms" />
@@ -86,9 +87,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoSwapVariables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicPrograms.VeryBasicPrograms.TwoSwapVariables" />
+    <configuration name="RandomNumberGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VeryBasicPrograms.RandomNumberGenerator" />
       <module name="JavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="VeryBasicPrograms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -108,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RandomNumberGenerator" />
         <item itemvalue="Application.HypotenuseTriangle" />
         <item itemvalue="Application.exampleProgram" />
         <item itemvalue="Application.ArmstrongNumber" />
         <item itemvalue="Application.FactorialProgram" />
-        <item itemvalue="Application.TwoSwapVariables" />
       </list>
     </recent_temporary>
   </component>
@@ -202,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1712024418890</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Hypotenuse Triangle commit">
+      <created>1712025462549</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1712025462549</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -224,6 +238,7 @@
     <MESSAGE value="Armstrong program update-1" />
     <MESSAGE value="Armstrong program update-2" />
     <MESSAGE value="JOptionPane commit (GUI program-1)" />
-    <option name="LAST_COMMIT_MESSAGE" value="JOptionPane commit (GUI program-1)" />
+    <MESSAGE value="Hypotenuse Triangle commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hypotenuse Triangle commit" />
   </component>
 </project>
