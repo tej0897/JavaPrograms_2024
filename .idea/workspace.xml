@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b93bd877-6974-485a-bb17-0dda1c3e9e2e" name="Changes" comment="Random Number commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/VeryBasicPrograms/SillyGame.java" afterDir="false" />
+    <list default="true" id="b93bd877-6974-485a-bb17-0dda1c3e9e2e" name="Changes" comment="silly game commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,14 +38,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/OneDrive/Desktop/Chad Darby - Spring Boot/projects/myApplication&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/user/OneDrive/Desktop/Chad Darby - Spring Boot/projects/02-spring-boot-spring-core"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.SillyGame">
     <configuration name="ArmstrongNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BasicPrograms.ArmstrongNumber" />
@@ -223,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1712026150233</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="silly game commit">
+      <created>1712032188883</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1712032188883</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -247,6 +253,7 @@
     <MESSAGE value="JOptionPane commit (GUI program-1)" />
     <MESSAGE value="Hypotenuse Triangle commit" />
     <MESSAGE value="Random Number commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Random Number commit" />
+    <MESSAGE value="silly game commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="silly game commit" />
   </component>
 </project>
